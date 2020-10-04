@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HCS-Workshop-1-Final/static/css/main.0c465f27.chunk.css",
+    "main.js": "/HCS-Workshop-1-Final/static/js/main.9ce008fb.chunk.js",
+    "main.js.map": "/HCS-Workshop-1-Final/static/js/main.9ce008fb.chunk.js.map",
+    "runtime-main.js": "/HCS-Workshop-1-Final/static/js/runtime-main.dedb9f8e.js",
+    "runtime-main.js.map": "/HCS-Workshop-1-Final/static/js/runtime-main.dedb9f8e.js.map",
+    "static/js/2.487dff4c.chunk.js": "/HCS-Workshop-1-Final/static/js/2.487dff4c.chunk.js",
+    "static/js/2.487dff4c.chunk.js.map": "/HCS-Workshop-1-Final/static/js/2.487dff4c.chunk.js.map",
+    "index.html": "/HCS-Workshop-1-Final/index.html",
+    "precache-manifest.53adff1645f0468b0bd1b1a24421bc43.js": "/HCS-Workshop-1-Final/precache-manifest.53adff1645f0468b0bd1b1a24421bc43.js",
+    "service-worker.js": "/HCS-Workshop-1-Final/service-worker.js",
+    "static/css/main.0c465f27.chunk.css.map": "/HCS-Workshop-1-Final/static/css/main.0c465f27.chunk.css.map",
+    "static/js/2.487dff4c.chunk.js.LICENSE.txt": "/HCS-Workshop-1-Final/static/js/2.487dff4c.chunk.js.LICENSE.txt",
+    "static/media/bighappy.jpeg": "/HCS-Workshop-1-Final/static/media/bighappy.ebcf0abc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dedb9f8e.js",
+    "static/js/2.487dff4c.chunk.js",
+    "static/css/main.0c465f27.chunk.css",
+    "static/js/main.9ce008fb.chunk.js"
+  ]
+}
