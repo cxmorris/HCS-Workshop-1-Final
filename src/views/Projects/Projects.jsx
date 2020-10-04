@@ -5,15 +5,16 @@ export default function ProjectsScreen() {
   return (
     <div className="screen-background">
       <Project
-        title="Machine Learning"
-        description="I made a machine learn"
-        link="https://google.com"
-      />
-      <Project
-        title="Personal Portfolio"
-        description="This website!!"
-        link="https://bing.com"
-      />
+        title = "Harvard College Open Data Project"
+        description = "Currently learning how to use Python/R to create data journalism articles. Will be publishing my first article in early November."
+        link = "https://www.hodp.org/"
+        />
+
+        <Project 
+          title = "WiCS Advocacy Survey"
+          description = "Working within a team of 7 to collect and analyze survey data to better understand diversity and current perceptions of CS classes at Harvard. Final report will be released in March 2021."
+          link = "http://advocacy.harvardwics.com/data/"
+          />
     </div>
   );
 }
